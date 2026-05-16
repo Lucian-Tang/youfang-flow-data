@@ -1,6 +1,6 @@
 {
-  "uid": "flow_cc282dd4",
-  "title": "长上下文：Kimi的超级武器",
+  "uid": "flow_45cde723",
+  "title": "Kimi的秘密：长上下文真香？",
   "category": "产品拆解",
   "categories": [
     "产品拆解"
@@ -10,12 +10,12 @@
   "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
   "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png",
   "mindmapSvgUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.svg",
-  "mermaidCode": "mindmap\n  root((Kimi长上下文))\n    技术栈\n      海量算力\n      稀疏注意力\n      工程优化\n    用户体验\n      整本书输入\n      多轮不丢失\n      精准定位\n    商业模式\n      差异化付费\n      企业场景\n      数据飞轮\n    竞争壁垒\n      长度领先\n      连续性佳\n      高成本难仿\n    产品定位\n      深度阅读\n      知识工具\n      超级助手",
-  "toxicComment": "别的AI还在纠结“你刚才说了啥”，Kimi已经能陪你读完《三体》三部曲再跟你讨论黑暗森林法则。长上下文不是炫技，是降维打击——它重新定义了“理解”这个词。当对手还在拼参数，Kimi在拼耐心。真正的差异化不是跑分，而是让用户忘记分块、忘记分段、忘记这是一堆token。但别忘了，算力账单也是秘密武器。",
+  "mermaidCode": "mindmap\n  root((Kimi长上下文差异化))\n    产品定位\n      专注长文本处理\n      提升深度阅读效率\n      差异化vs碎片化产品\n    技术壁垒\n      超长上下文窗口\n      高效注意力机制\n      降低计算成本\n    用户体验\n      处理长文档如论文\n      记忆连续对话\n      减少信息丢失\n    商业价值\n      吸引专业用户\n      拓展企业场景\n      构建数据护城河\n    竞争对比\n      ChatGPT短上下文限制\n      国产AI同质化\n      长文本领域领先",
+  "toxicComment": "长上下文？听起来很牛，但用户真的需要一口气读完《三体》吗？大多数场景下，对话记忆不超过10轮。Kimi这是在用工程能力解决一个伪需求，还是说准备让AI替你读完所有PDF，然后你只需问一句话？本质上，这是用技术参数掩盖产品场景的匮乏。不过，至少它让竞品慌了，毕竟别的AI还在为2k token挣扎时，Kimi已经可以看《百年孤独》了。",
   "keyPoints": [
-    "长上下文让Kimi从聊天工具跃升为“深度阅读伙伴”",
-    "技术壁垒高，竞争对手短期难以复制同等体验",
-    "打开了企业级长文档处理市场，商业模式独特"
+    "长上下文是技术优势，但场景落地是关键",
+    "核心用户是深度学习者，而非普通聊天者",
+    "差异化在于信息密度，而非对话长度"
   ],
   "aiModel": "deepseek-v4-flash",
   "chartType": "mindmap",

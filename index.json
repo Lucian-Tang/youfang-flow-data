@@ -4,6 +4,13 @@
   "appName": "有方Flow",
   "history": [
     {
+      "uid": "flow_45cde723",
+      "title": "Kimi的秘密：长上下文真香？",
+      "category": "产品拆解",
+      "publishedAt": "2026-05-16T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+    },
+    {
       "uid": "flow_cc282dd4",
       "title": "长上下文：Kimi的超级武器",
       "category": "产品拆解",
@@ -52,8 +59,8 @@
     }
   ],
   "today": {
-    "uid": "flow_cc282dd4",
-    "title": "长上下文：Kimi的超级武器",
+    "uid": "flow_45cde723",
+    "title": "Kimi的秘密：长上下文真香？",
     "category": "产品拆解",
     "publishedAt": "2026-05-16T06:00:00+08:00",
     "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
