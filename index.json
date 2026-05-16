@@ -4,6 +4,13 @@
   "appName": "有方Flow",
   "history": [
     {
+      "uid": "flow_cc282dd4",
+      "title": "长上下文：Kimi的超级武器",
+      "category": "产品拆解",
+      "publishedAt": "2026-05-16T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+    },
+    {
       "uid": "flow_4454b7b8",
       "title": "微信支付收银台：藏在按钮里的心机",
       "category": "产品",
@@ -45,16 +52,16 @@
     }
   ],
   "today": {
-    "uid": "flow_4454b7b8",
-    "title": "微信支付收银台：藏在按钮里的心机",
-    "category": "产品",
+    "uid": "flow_cc282dd4",
+    "title": "长上下文：Kimi的超级武器",
+    "category": "产品拆解",
     "publishedAt": "2026-05-16T06:00:00+08:00",
     "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
   },
   "stats": {
     "totalMindmaps": 1,
     "byCategory": {
-      "产品": 1
+      "产品拆解": 1
     }
   },
   "updatedAt": "2026-05-16T06:30:00+08:00"

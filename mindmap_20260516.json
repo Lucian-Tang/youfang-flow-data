@@ -1,24 +1,21 @@
 {
-  "uid": "flow_4454b7b8",
-  "title": "微信支付收银台：藏在按钮里的心机",
-  "category": "产品",
+  "uid": "flow_cc282dd4",
+  "title": "长上下文：Kimi的超级武器",
+  "category": "产品拆解",
   "categories": [
-    "产品"
+    "产品拆解"
   ],
-  "tags": [
-    "支付",
-    "微信"
-  ],
+  "tags": [],
   "difficulty": "intermediate",
   "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
   "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png",
   "mindmapSvgUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.svg",
-  "mermaidCode": "mindmap\n  root((微信支付收银台))\n    交互设计\n      极简布局\n      动效反馈\n      默认支付方式\n    支付流程\n      唤起支付\n      密码/指纹\n      结果展示\n    安全风控\n      风控策略\n      支付限额\n      异常检测\n    商家接入\n      API适配\n      对账系统\n      费率策略\n    用户心理\n      信任感\n      决策成本\n      记忆偏好",
-  "toxicComment": "说透一点，微信支付收银台就是一个精心设计的“诱导器”。默认支付方式、极简动效、甚至那个不起眼的“更多支付方式”按钮，全是为了让你无脑选微信支付。安全验证？不过是用户体验的绊脚石，两边博弈的结果就是你每次都要刷脸输密码，而微信却美其名曰“风控”。别自欺欺人了，收银台的设计本质就是让用户少动脑、多掏钱，顺便把商家绑在自己的生态链上。",
+  "mermaidCode": "mindmap\n  root((Kimi长上下文))\n    技术栈\n      海量算力\n      稀疏注意力\n      工程优化\n    用户体验\n      整本书输入\n      多轮不丢失\n      精准定位\n    商业模式\n      差异化付费\n      企业场景\n      数据飞轮\n    竞争壁垒\n      长度领先\n      连续性佳\n      高成本难仿\n    产品定位\n      深度阅读\n      知识工具\n      超级助手",
+  "toxicComment": "别的AI还在纠结“你刚才说了啥”，Kimi已经能陪你读完《三体》三部曲再跟你讨论黑暗森林法则。长上下文不是炫技，是降维打击——它重新定义了“理解”这个词。当对手还在拼参数，Kimi在拼耐心。真正的差异化不是跑分，而是让用户忘记分块、忘记分段、忘记这是一堆token。但别忘了，算力账单也是秘密武器。",
   "keyPoints": [
-    "默认支付方式引导用户习惯，降低决策成本",
-    "安全验证与流畅体验的微妙平衡",
-    "商家费率与用户体验的博弈"
+    "长上下文让Kimi从聊天工具跃升为“深度阅读伙伴”",
+    "技术壁垒高，竞争对手短期难以复制同等体验",
+    "打开了企业级长文档处理市场，商业模式独特"
   ],
   "aiModel": "deepseek-v4-flash",
   "chartType": "mindmap",
