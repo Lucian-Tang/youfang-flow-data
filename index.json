@@ -4,6 +4,13 @@
   "appName": "有方Flow",
   "history": [
     {
+      "uid": "flow_4454b7b8",
+      "title": "微信支付收银台：藏在按钮里的心机",
+      "category": "产品",
+      "publishedAt": "2026-05-16T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+    },
+    {
       "uid": "flow_0870e94b",
       "title": "Airbnb 用户体验地图",
       "category": "设计",
@@ -38,16 +45,16 @@
     }
   ],
   "today": {
-    "uid": "flow_0870e94b",
-    "title": "Airbnb 用户体验地图",
-    "category": "设计",
+    "uid": "flow_4454b7b8",
+    "title": "微信支付收银台：藏在按钮里的心机",
+    "category": "产品",
     "publishedAt": "2026-05-16T06:00:00+08:00",
     "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
   },
   "stats": {
     "totalMindmaps": 1,
     "byCategory": {
-      "设计": 1
+      "产品": 1
     }
   },
   "updatedAt": "2026-05-16T06:30:00+08:00"
