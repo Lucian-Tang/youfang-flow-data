@@ -2,74 +2,84 @@
   "schemaVersion": "1.0",
   "appId": "wx2eb7f133369a222a",
   "appName": "有方Flow",
+  "updatedAt": "2026-05-16T06:30:00+08:00",
+  "today": {
+    "uid": "flow_56c90744",
+    "title": "Kimi 的秘密：长上下文为什么是差异化关键",
+    "category": "产品拆解",
+    "publishedAt": "2026-05-16T06:00:00+08:00",
+    "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
+    "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png"
+  },
   "history": [
     {
-      "uid": "flow_45cde723",
-      "title": "Kimi的秘密：长上下文真香？",
-      "category": "产品拆解",
-      "publishedAt": "2026-05-16T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+      "uid": "flow_2fcfcff3",
+      "title": "LLM 的本质：为什么AI会一本正经地胡说八道",
+      "category": "基础知识",
+      "publishedAt": "2026-05-12T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260512/cover.png"
     },
     {
-      "uid": "flow_cc282dd4",
-      "title": "长上下文：Kimi的超级武器",
-      "category": "产品拆解",
-      "publishedAt": "2026-05-16T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+      "uid": "flow_528b40d3",
+      "title": "Context Window 的真相：AI不是内存无限的魔法师",
+      "category": "基础知识",
+      "publishedAt": "2026-05-13T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260513/cover.png"
     },
     {
-      "uid": "flow_4454b7b8",
-      "title": "微信支付收银台：藏在按钮里的心机",
-      "category": "产品",
-      "publishedAt": "2026-05-16T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+      "uid": "flow_e6ef8ce0",
+      "title": "ReAct 架构：AI边想边做是怎么实现的",
+      "category": "架构模式",
+      "publishedAt": "2026-05-14T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260514/cover.png"
     },
     {
-      "uid": "flow_0870e94b",
-      "title": "Airbnb 用户体验地图",
-      "category": "设计",
-      "publishedAt": "2026-05-16T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+      "uid": "flow_8f511fc0",
+      "title": "MCP 协议：AI时代的USB接口意味着什么",
+      "category": "工具生态",
+      "publishedAt": "2026-05-15T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260515/cover.png"
     }
   ],
   "categories": [
     {
-      "key": "product",
-      "name": "产品",
-      "icon": "📦",
+      "key": "基础知识",
+      "name": "基础知识",
+      "icon": "📖",
       "color": "#4A90D9"
     },
     {
-      "key": "design",
-      "name": "设计",
-      "icon": "🎨",
-      "color": "#E85D75"
-    },
-    {
-      "key": "tech",
-      "name": "技术",
-      "icon": "⚙️",
+      "key": "架构模式",
+      "name": "架构模式",
+      "icon": "🏗️",
       "color": "#7B68EE"
     },
     {
-      "key": "business",
-      "name": "商业",
-      "icon": "💼",
+      "key": "产品拆解",
+      "name": "产品拆解",
+      "icon": "🔍",
+      "color": "#E85D75"
+    },
+    {
+      "key": "工具生态",
+      "name": "工具生态",
+      "icon": "🔧",
       "color": "#50C878"
+    },
+    {
+      "key": "新基本功",
+      "name": "新基本功",
+      "icon": "⚡",
+      "color": "#F59E0B"
     }
   ],
-  "today": {
-    "uid": "flow_45cde723",
-    "title": "Kimi的秘密：长上下文真香？",
-    "category": "产品拆解",
-    "publishedAt": "2026-05-16T06:00:00+08:00",
-    "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
-  },
   "stats": {
-    "totalMindmaps": 1,
+    "totalMindmaps": 5,
     "byCategory": {
-      "产品拆解": 1
+      "基础知识": 2,
+      "架构模式": 1,
+      "产品拆解": 1,
+      "工具生态": 1
     }
-  },
-  "updatedAt": "2026-05-16T06:30:00+08:00"
+  }
 }
