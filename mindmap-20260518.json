@@ -1,0 +1,16 @@
+{
+  "mermaidCode": "mindmap\n  root((AI-native PM vs 传统PM))\n    思维方式5大差异\n      从确定到概率\n        传统PM: 定义确定的行为\n          点击按钮→弹出对话框\n        AI-native PM: 设计概率空间\n          理解用户意图→生成合适回复\n          产品行为不再100%可预测\n      从功能到能力\n        传统PM: 做功能列表\n          按钮A/按钮B/页面C\n        AI-native PM: 定义AI能力边界\n          AI应该能总结文档\n          AI不应该替代医生诊断\n      从流程到对话\n        传统PM: 设计用户操作流程\n          注册→选品→下单→支付\n        AI-native PM: 设计对话路径\n          用户说→AI理解→AI行动→AI汇报\n      从指标到信任\n        传统PM: DAU/留存/转化率\n        AI-native PM: 新增信任指标\n          任务完成率/Hallucination Rate\n          用户信任评分/Time-to-First-Token\n      从测试到Eval\n        传统PM: 功能测试\n          点击按钮后弹窗是否正确\n        AI-native PM: AI评估体系\n          LLM-as-Judge自动评估\n          对抗性测试Red-teaming\n    PRD进化论\n      传统PRD\n        功能清单\n        边界清晰\n        确定性描述\n      示例: 用户点击搜索→调用API→展示列表\n      AI时代PRD\n        能力描述\n        不确定性管理\n        预期管理\n      示例: AI理解用户意图→检索知识库\n        →生成答案→标注置信度\n        →不确定时说不知道\n    AI-native PM工具箱\n      用户研究\n        访谈转录: Fireflies\n        文本分析: Claude提取洞察\n        竞品研究: Perplexity深度搜索\n        学术研究: Consensus论文总结\n      产品设计\n        Prompt工程=新的交互设计\n        Guardrails=新的异常处理\n        Eval体系=新的质量保障\n      数据分析\n        模型成本Dashboard\n        Hallucination Rate趋势\n        用户信任度变化\n    AI产品的错误处理\n      为什么难10倍\n        传统: 按钮点错→提示\n        AI: 答案像真的→用户信了→损失\n      3种设计模式\n        置信度分级\n          高置信度90%+: 直接输出\n          中置信度60-90%: 仅供参考\n          低置信度<60%: 我不确定\n        不确定性表达\n          据我了解而非事实是\n        人工确认节点\n          高风险场景强制人工审核\n    核心竞争力\n      不会被AI替代的能力\n        定义AI的能力边界\n        理解用户对AI的期望\n        设计AI产品的信任机制\n        在不确定中做产品决策\n      会被AI替代的能力\n        画原型图AI已经能做了\n        写功能列表AI已经能做了\n        数据分析基础报告AI已经能做了\n      结论\n        AI-native PM不是用AI做PM\n        而是设计AI产品的PM\n        后者不会被替代",
+  "title": "AI-native PM vs 传统PM：你还在写功能列表，别人在设计概率空间",
+  "toxicComment": "传统PM的看家本领——画原型、写功能列表、做竞品分析——AI现在全都能干。你以为你在做产品？你可能只是在做AI的实习生。真正的AI-native PM是设计概率空间的人，不是点按钮的人。",
+  "keyPoints": [
+    "五大思维转变：确定→概率、功能→能力、流程→对话、指标→信任、测试→Eval",
+    "PRD从功能清单进化为能力描述+不确定性管理",
+    "AI-native PM的核心价值是设计AI的边界和信任机制"
+  ],
+  "chartType": "mindmap",
+  "topic": "AI-native PM vs 传统PM：思维方式的核心差异",
+  "category": "行业认知",
+  "date": "20260518",
+  "aiModel": "deepseek-v4-pro",
+  "generatedAt": "2026-05-16T15:07:00+08:00"
+}

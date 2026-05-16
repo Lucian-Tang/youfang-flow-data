@@ -2,43 +2,64 @@
   "schemaVersion": "1.0",
   "appId": "wx2eb7f133369a222a",
   "appName": "有方Flow",
-  "updatedAt": "2026-05-16T06:30:00+08:00",
+  "updatedAt": "2026-05-18T06:00:00+08:00",
   "today": {
-    "uid": "flow_56c90744",
-    "title": "Kimi 的秘密：长上下文为什么是差异化关键",
-    "category": "产品拆解",
-    "publishedAt": "2026-05-16T06:00:00+08:00",
-    "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
-    "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png"
+    "uid": "flow_20260518",
+    "title": "AI-native PM vs 传统PM：你还在写功能列表，别人在设计概率空间",
+    "category": "行业认知",
+    "publishedAt": "2026-05-18T06:00:00+08:00",
+    "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260518/cover.png",
+    "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260518/mindmap.png"
   },
   "history": [
     {
-      "uid": "flow_2fcfcff3",
-      "title": "LLM 的本质：为什么AI会一本正经地胡说八道",
-      "category": "基础知识",
-      "publishedAt": "2026-05-12T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260512/cover.png"
+      "uid": "flow_20260518",
+      "title": "AI-native PM vs 传统PM：思维方式的核心差异",
+      "category": "行业认知",
+      "publishedAt": "2026-05-18T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260518/cover.png"
     },
     {
-      "uid": "flow_528b40d3",
+      "uid": "flow_20260517",
+      "title": "从GPT-4到GPT-4o：模型进化史教会我们什么",
+      "category": "行业认知",
+      "publishedAt": "2026-05-17T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260517/cover.png"
+    },
+    {
+      "uid": "flow_20260516",
+      "title": "Hallucination 全解剖：AI的自信从哪来，如何应对",
+      "category": "产品设计",
+      "publishedAt": "2026-05-16T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+    },
+    {
+      "uid": "flow_20260515",
+      "title": "Token 经济：每次API调用到底在花谁的钱",
+      "category": "成本设计",
+      "publishedAt": "2026-05-15T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260515/cover.png"
+    },
+    {
+      "uid": "flow_20260514",
       "title": "Context Window 的真相：AI不是内存无限的魔法师",
+      "category": "基础知识",
+      "publishedAt": "2026-05-14T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260514/cover.png"
+    },
+    {
+      "uid": "flow_20260513",
+      "title": "Transformer 原理 PM 版：LLM凭什么这么强",
       "category": "基础知识",
       "publishedAt": "2026-05-13T06:00:00+08:00",
       "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260513/cover.png"
     },
     {
-      "uid": "flow_e6ef8ce0",
-      "title": "ReAct 架构：AI边想边做是怎么实现的",
-      "category": "架构模式",
-      "publishedAt": "2026-05-14T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260514/cover.png"
-    },
-    {
-      "uid": "flow_8f511fc0",
-      "title": "MCP 协议：AI时代的USB接口意味着什么",
-      "category": "工具生态",
-      "publishedAt": "2026-05-15T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260515/cover.png"
+      "uid": "flow_20260512",
+      "title": "LLM 的本质：为什么AI会一本正经地胡说八道",
+      "category": "基础知识",
+      "publishedAt": "2026-05-12T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260512/cover.png"
     }
   ],
   "categories": [
@@ -71,15 +92,39 @@
       "name": "新基本功",
       "icon": "⚡",
       "color": "#F59E0B"
+    },
+    {
+      "key": "行业认知",
+      "name": "行业认知",
+      "icon": "🌍",
+      "color": "#8B5CF6"
+    },
+    {
+      "key": "成本设计",
+      "name": "成本设计",
+      "icon": "💰",
+      "color": "#10B981"
+    },
+    {
+      "key": "产品设计",
+      "name": "产品设计",
+      "icon": "🎨",
+      "color": "#F472B6"
+    },
+    {
+      "key": "商业化",
+      "name": "商业化",
+      "icon": "📈",
+      "color": "#F97316"
     }
   ],
   "stats": {
-    "totalMindmaps": 5,
+    "totalMindmaps": 7,
     "byCategory": {
-      "基础知识": 2,
-      "架构模式": 1,
-      "产品拆解": 1,
-      "工具生态": 1
+      "基础知识": 3,
+      "成本设计": 1,
+      "产品设计": 1,
+      "行业认知": 2
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "mermaidCode": "mindmap\n  root((LLM本质: 下一个Token预测器))\n    核心机制\n      自回归生成\n        每次预测下一个最可能的词\n        基于前文所有token的联合概率\n      不是\"理解\"而是\"模式匹配\"\n        训练数据中的统计规律\n        没有真正的常识推理\n      概率≠确定性\n        同一个prompt不同输出\n        temperature越高越随机\n    为什么胡说八道\n      训练数据有噪音\n        互联网文本良莠不齐\n        错误信息被模型学习\n      概率坍塌\n        低概率路径被选中\n        幻觉=模型\"合理想象\"\n      知识截止日期\n        训练数据有截止时间\n        不知道训练后发生的事\n      PM必须建立的直觉\n        LLM是\"超级学霸但爱编造\"\n        每次输出都需要验证\n        不要把LLM当数据库用\n    PM必懂4层防线\n      第一层: Prompt约束\n        明确说\"不知道就说不知道\"\n        要求标注不确定性的信息来源\n      第二层: RAG锚定\n        让AI基于你的文档回答\n        不是凭记忆编造\n      第三层: Guardrails\n        输出格式校验JSON Schema\n        内容审核过滤敏感词\n      第四层: 人工确认节点\n        高风险决策必须人工点确认\n        参考Cursor Autonomy Slider\n    产品设计启示\n      AI产品本质是\"降低不确定性\"\n        用户期望管理比功能更重要\n        告诉用户AI可能出错是美德\n      \"置信度\"应该是UI元素\n        高置信度直接输出\n        低置信度加\"仅供参考\"标签\n      Trust > Intelligence\n        用户信任比AI聪明更重要\n        Perplexity靠引用来源建立信任\n    知识体系关联\n      → Context Window限制幻觉范围\n      → RAG架构是防幻觉核心方案\n      → Eval体系必须包含Hallucination Rate\n      → Guardrails是AI产品安全标配",
+  "title": "LLM的本质：为什么你的AI助手会一本正经地编故事",
+  "toxicComment": "你花大价钱买的AI，本质上是个只会猜下一个词的赌徒——只是运气特别好。它那副胸有成竹的样子，和考试时不会做却写满了的学霸一模一样。",
+  "keyPoints": [
+    "LLM不是理解而是概率预测，产品设计必须围绕这个事实",
+    "四层防线是AI产品的安全标配而非可选项",
+    "用户信任建立在透明度上——Perplexity的引用来源是典型案例"
+  ],
+  "chartType": "mindmap",
+  "topic": "LLM 的本质：为什么AI会一本正经地胡说八道",
+  "category": "基础知识",
+  "date": "20260512",
+  "aiModel": "deepseek-v4-pro",
+  "generatedAt": "2026-05-16T15:07:00+08:00"
+}
