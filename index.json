@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "appId": "wx2eb7f133369a222a",
+  "appName": "有方Flow",
+  "history": [
+    {
+      "uid": "flow_0870e94b",
+      "title": "Airbnb 用户体验地图",
+      "category": "设计",
+      "publishedAt": "2026-05-16T06:00:00+08:00",
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+    }
+  ],
+  "categories": [
+    {
+      "key": "product",
+      "name": "产品",
+      "icon": "📦",
+      "color": "#4A90D9"
+    },
+    {
+      "key": "design",
+      "name": "设计",
+      "icon": "🎨",
+      "color": "#E85D75"
+    },
+    {
+      "key": "tech",
+      "name": "技术",
+      "icon": "⚙️",
+      "color": "#7B68EE"
+    },
+    {
+      "key": "business",
+      "name": "商业",
+      "icon": "💼",
+      "color": "#50C878"
+    }
+  ],
+  "today": {
+    "uid": "flow_0870e94b",
+    "title": "Airbnb 用户体验地图",
+    "category": "设计",
+    "publishedAt": "2026-05-16T06:00:00+08:00",
+    "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+  },
+  "stats": {
+    "totalMindmaps": 1,
+    "byCategory": {
+      "设计": 1
+    }
+  },
+  "updatedAt": "2026-05-16T06:30:00+08:00"
+}

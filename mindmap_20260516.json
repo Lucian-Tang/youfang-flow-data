@@ -1,0 +1,30 @@
+{
+  "uid": "flow_0870e94b",
+  "title": "Airbnb 用户体验地图",
+  "category": "设计",
+  "categories": [
+    "设计"
+  ],
+  "tags": [
+    "用户体验",
+    "旅游"
+  ],
+  "difficulty": "intermediate",
+  "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
+  "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png",
+  "mindmapSvgUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.svg",
+  "mermaidCode": "mindmap\n  root((Airbnb 用户体验地图))\n    核心概念\n      价值主张\n      目标用户\n      核心功能\n    市场分析\n      竞品格局\n      差异化优势\n      增长机会\n    建议思考\n      深度问题1\n      深度问题2\n      深度问题3",
+  "toxicComment": "（AI 生成暂时不可用，下面是基础脑图）\n\nAirbnb 用户体验地图 这个选题很有意思，但今天 AI 罢工了。不过这不妨碍我们自己动脑——真正重要的不是工具，是思考的深度。明天再来看毒舌版吧。",
+  "keyPoints": [
+    "Airbnb 用户体验地图的核心价值不在功能多少，而在解决了什么真问题",
+    "产品思维的本质是取舍：知道什么不做比知道做什么更重要",
+    "好的脑图不是列出所有答案，而是提出对的问题"
+  ],
+  "aiModel": "deepseek-v4-flash",
+  "chartType": "mindmap",
+  "publishedAt": "2026-05-16T06:00:00+08:00",
+  "publishDate": "2026-05-16",
+  "viewCount": 0,
+  "likeCount": 0,
+  "status": "published"
+}
