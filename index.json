@@ -1,65 +1,78 @@
 {
-  "schemaVersion": "1.0",
+  "schemaVersion": "2.0",
   "appId": "wx2eb7f133369a222a",
   "appName": "有方Flow",
-  "updatedAt": "2026-05-18T06:00:00+08:00",
+  "updatedAt": "2026-05-18T06:30:00+08:00",
   "today": {
     "uid": "flow_20260518",
     "title": "AI-native PM vs 传统PM：你还在写功能列表，别人在设计概率空间",
     "category": "行业认知",
+    "thesis": "传统PM设计确定性的功能列表，AI-native PM设计概率性的行为空间——前者追求精确，后者拥抱涌现。",
+    "toxicComment": "你还在纠结按钮放左边还是右边，别人在纠结模型什么时候该闭嘴——结果你的按钮用户根本不想按，别人的AI已经学会了主动装死。",
     "publishedAt": "2026-05-18T06:00:00+08:00",
     "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260518/cover.png",
     "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260518/mindmap.png"
   },
   "history": [
     {
-      "uid": "flow_20260518",
-      "title": "AI-native PM vs 传统PM：思维方式的核心差异",
-      "category": "行业认知",
-      "publishedAt": "2026-05-18T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260518/cover.png"
-    },
-    {
       "uid": "flow_20260517",
-      "title": "从GPT-4到GPT-4o：模型进化史教会我们什么",
+      "title": "从GPT-3到o3：5代模型进化教会PM的5个血泪教训",
       "category": "行业认知",
+      "thesis": "**毒舌点评（一句话，冷幽默+产品洞察，20-35字）：**",
+      "toxicComment": "**毒舌点评（一句话，冷幽默+产品洞察，20-35字）：**",
       "publishedAt": "2026-05-17T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260517/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260517/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260517/mindmap.png"
     },
     {
       "uid": "flow_20260516",
-      "title": "Hallucination 全解剖：AI的自信从哪来，如何应对",
+      "title": "Hallucination全解剖：当AI撒谎比你前男友还自信",
       "category": "产品设计",
+      "thesis": "毒舌点评（一句话，冷幽默+产品洞察，20-35字）：",
+      "toxicComment": "毒舌点评（一句话，冷幽默+产品洞察，20-35字）：",
       "publishedAt": "2026-05-16T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260516/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260516/mindmap.png"
     },
     {
       "uid": "flow_20260515",
-      "title": "Token 经济：每次API调用到底在花谁的钱",
+      "title": "Token经济学：你的AI产品每说一句话，烧了多少钱？",
       "category": "成本设计",
+      "thesis": "每一句话都有价格标签，AI产品经理必须像管预算一样管token。",
+      "toxicComment": "你花大价钱让AI写八股文，它倒好，每多一个“此外”就多收你一次过路费。",
       "publishedAt": "2026-05-15T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260515/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260515/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260515/mindmap.png"
     },
     {
       "uid": "flow_20260514",
-      "title": "Context Window 的真相：AI不是内存无限的魔法师",
+      "title": "Context Window：你花大钱买的128K窗口，AI只认真看了开头和结尾",
       "category": "基础知识",
+      "thesis": "厂商吹捧的128K超长上下文窗口，实际利用率不到10%，AI真正有效关注的只有开头和结尾的几百个token。",
+      "toxicComment": "你花128K买了个客厅，AI只在门口和阳台活动——中间那间房，它连门都不推一下。",
       "publishedAt": "2026-05-14T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260514/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260514/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260514/mindmap.png"
     },
     {
       "uid": "flow_20260513",
-      "title": "Transformer 原理 PM 版：LLM凭什么这么强",
+      "title": "Transformer原理PM版：LLM凭什么碾压所有老AI",
       "category": "基础知识",
+      "thesis": "Transformer的核心创新在于自注意力机制让每个词都能直接\"看见\"所有其他词，彻底解除了序列模型的通信带宽瓶颈。",
+      "toxicComment": "你以前给AI喂一句话，它得一个字一个字往后传话——现在好，它开了一个全员视频会议，结果消息太多，有时候开会开始自己编段子。",
       "publishedAt": "2026-05-13T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260513/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260513/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260513/mindmap.png"
     },
     {
       "uid": "flow_20260512",
-      "title": "LLM 的本质：为什么AI会一本正经地胡说八道",
+      "title": "LLM的本质：为什么你的AI助手会一本正经地编故事",
       "category": "基础知识",
+      "thesis": "LLM本质是统计模式匹配的文本生成器，没有真实意图，因此它自信地编故事是一种必然的“能力缺陷”。",
+      "toxicComment": "你问AI为什么编故事？因为它这辈子唯一学会的事，就是用最真诚的语气把最离谱的废话说得像真理。",
       "publishedAt": "2026-05-12T06:00:00+08:00",
-      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260512/cover.png"
+      "coverUrl": "https://lucian-tang.github.io/youfang-flow-data/covers/20260512/cover.png",
+      "mindmapUrl": "https://lucian-tang.github.io/youfang-flow-data/images/20260512/mindmap.png"
     }
   ],
   "categories": [
@@ -96,8 +109,8 @@
     {
       "key": "行业认知",
       "name": "行业认知",
-      "icon": "🌍",
-      "color": "#8B5CF6"
+      "icon": "🏢",
+      "color": "#6366F1"
     },
     {
       "key": "成本设计",
@@ -109,7 +122,7 @@
       "key": "产品设计",
       "name": "产品设计",
       "icon": "🎨",
-      "color": "#F472B6"
+      "color": "#EC4899"
     },
     {
       "key": "商业化",
@@ -122,9 +135,9 @@
     "totalMindmaps": 7,
     "byCategory": {
       "基础知识": 3,
-      "成本设计": 1,
+      "行业认知": 2,
       "产品设计": 1,
-      "行业认知": 2
+      "成本设计": 1
     }
   }
 }
